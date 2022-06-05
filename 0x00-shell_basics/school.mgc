@@ -1,2 +1,2 @@
-0    string   SCHOOL   School  data
-file --mime-type School
+0    string    SCHOOL    School data
+file  --mime-type School
